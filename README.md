@@ -1,1 +1,1 @@
-# exercise_goit_1
+# GOIT ZADANIE 1
